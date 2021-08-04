@@ -1,12 +1,15 @@
 ### Opa, bão? Me chamo Pedro, seja bem-vindo(a) 👋😉
 
-- 🔭 Estou em busca do meu 1° emprego formal na área;
-- 🗺 Dev focado em tecnologias front-end;
+- 🗺 Desenvolvedor focado em tecnologias front-end;
+- 👷‍♂️ Em busca do 1° emprego formal na área;
+- 💗 Apaixonado por Lo-fi e Esportes 
+
+ <img align="right" alt="pedro-wave" height="150" width="220" src="https://cdn.discordapp.com/attachments/400754885756190721/872561530103791636/7VA.gif">
 
  
  
  ##
- <img align="right" alt="pedro-wave" height="140" width="140"      src="https://cdn.discordapp.com/attachments/400754885756190721/872520460582133770/52O8.gif">
+ 
  <div style="display: inline_block"> 
  Tecnologias dominadas: <br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
