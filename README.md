@@ -41,5 +41,5 @@
    
 ### Obrigado pela visita 💜
    
-     ![Snake animation](https://github.com/pedrodam99/pedrodam99/blob/output/github-contribution-grid-snake.svg)
+     ![Snake animation](https://github.com/pedrodam99/pedrodam99/edit/main/README.md)
 
