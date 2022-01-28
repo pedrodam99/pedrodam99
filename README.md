@@ -1,7 +1,6 @@
 ### Opa, bão? Me chamo Pedro, seja bem-vindo(a) 👋😉
 
-- 🗺 Desenvolvedor focado em tecnologias front-end;
-- 👷‍♂️ Em busca do 1° emprego formal na área;
+- 🗺 Desenvolvedor front-end;
 - 💜 Apaixonado por Lo-fi e Esportes 
 
  <img align="right" alt="pedro-wave" height="150" width="220" src="https://cdn.discordapp.com/attachments/400754885756190721/872561530103791636/7VA.gif">
