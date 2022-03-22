@@ -1,16 +1,16 @@
 ### Opa, bão? Me chamo Pedro, seja bem-vindo(a) 👋😉
 
-- 🗺 Desenvolvedor front-end;
-- 💜 Apaixonado por Lo-fi e Esportes 
+🗺| Desenvolvedor front-end; <br>
+💜| Apaixonado por Lo-fi e Esportes 
 
- <img align="right" alt="pedro-wave" height="150" width="220" src="https://cdn.discordapp.com/attachments/400754885756190721/872561530103791636/7VA.gif">
+
 
  
  
  ##
  
  <div style="display: inline_block"> 
- Tecnologias dominadas: <br>
+ Tecnologias dominadas: <br> <br>
   <img align="center" alt="Js-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -19,7 +19,7 @@
  <img align="center" alt="Git-Icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   
 ##
-  Tecnologias sendo estudadas: <br>
+  Tecnologias sendo estudadas: <br> <br>
    <img align="center" alt="Ts-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Node-Icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
