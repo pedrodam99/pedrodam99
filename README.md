@@ -1,4 +1,4 @@
-### Opa, bão? Me chamo Pedro, seja bem-vindo(a) 👋😉
+### Hi, me chamo Pedro, seja bem-vindo(a) 👋😉
 
 🗺| Desenvolvedor front-end; <br>
 💜| Apaixonado por Lo-fi e Esportes 
