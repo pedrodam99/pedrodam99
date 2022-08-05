@@ -1,6 +1,6 @@
 ### Yeah, my name is Pedro! Welcome 👋😉
 
-I'm front-end developer.
+I'm fullstack developer. React, Node and Express.
 
 
  
