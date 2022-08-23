@@ -1,9 +1,23 @@
-### Yeah, my name is Pedro! Welcome 👋😉
-##
-## My Tech Skills 🛠
+<div align=center>
+<h1>Yeah, my name is Pedro! Welcome 👋😉 </h1>
+I'm a full stack developer and game lover directly from São Paulo, Brazil. <br>
+My stack for development is a MERN (MongoDB, Express, React and NodeJS)
  
+<h4> Entre em contato! </h4>
+  <a href="https://instagram.com/ph_doka" target="_blank"><img 
+  src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href = "mailto:contato@pedrodam99@gmail.com"><img
+  src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+ </a>
+  <a href=https://www.linkedin.com/in/pedrodambrosio/?trk=public-profile-join-page" target="_blank"><img 
+  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+ </a>
+</div>
 
-
+<div align=center>
+<h2> My Tech Skills 🛠 </h2>
+ 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -17,7 +31,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
+<div>
  
  ##
   <div>
@@ -27,10 +41,7 @@
 </div>
       
  <div align="center"> 
-  <h4> Entre em contato! </h4>
-  <a href="https://instagram.com/ph_doka" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contato@pedrodam99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href=https://www.linkedin.com/in/pedrodambrosio/?trk=public-profile-join-page" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
   
    
 ### Thanks for the visit 💜
