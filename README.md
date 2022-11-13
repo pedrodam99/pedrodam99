@@ -1,7 +1,7 @@
 <div align=center>
 <h1>Yeah, my name is Pedro! Welcome 👋😉 </h1>
 I'm a full stack developer and game lover directly from São Paulo, Brazil. <br>
-My stack for development is a MERN (MongoDB, Express, React and NodeJS)
+
  
 <h4> Entre em contato! </h4>
   <a href="https://instagram.com/ph_doka" target="_blank"><img 
