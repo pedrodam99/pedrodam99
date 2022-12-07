@@ -1,7 +1,7 @@
 # Hi, I am Pedro! Welcome 👋
 Im web developer, footbal lover and gamer. ⚽🎮
 
-## Entre em contato 📲
+## Get a touch! 📲
 <a href="https://instagram.com/ph_doka" target="_blank">
  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 </a>
