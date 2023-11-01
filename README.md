@@ -35,9 +35,9 @@ Im fullstack web developer, footbal lover and gamer. ⚽🎮
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
-##
+<!-- ##
  <img height="180em"  
-<!--   src="https://github-readme-stats.vercel.app/api?username=pedrodam99&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  src="https://github-readme-stats.vercel.app/api?username=pedrodam99&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodam99&layout=compact&langs_count=7&theme=synthwave"> -->
  
  ### Thanks for the visit 💜
