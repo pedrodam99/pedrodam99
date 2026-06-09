@@ -11,3 +11,8 @@
 - 🌱 Studying Software Architecture and System Design
 - ☁️ Interested in Cloud Computing and Distributed Systems
 - 🇬🇧 English proficiency: C1
+
+- ### Connect with me
+
+- 📧 [Email](mailto:pedrodam99@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/pedro-dambrosio)
