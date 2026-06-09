@@ -5,14 +5,12 @@
 </p>
 
 ### About me
-
 - 💼 Fullstack Developer with experience in building scalable web applications
 - 🔭 Currently working with .NET, Angular, PostgreSQL etc
 - 🌱 Studying Software Architecture and System Design
 - ☁️ Interested in Cloud Computing and Distributed Systems
 - 🇬🇧 English proficiency: C1
 
-- ### Connect with me
-
+### Connect with me
 - 📧 [Email](mailto:pedrodam99@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/pedro-dambrosio)
