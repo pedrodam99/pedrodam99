@@ -6,8 +6,8 @@
 
 ### About me
 
-- 💼 Fullstack Developer
-- 🔭 I'm Working with .NET, Angular and PostgreSQL
-- 🌱 Now I'm studying Software Archicture and System Design
-- ☁️ Interested in Cloud Computing
-- 🇬🇧 C1 English Level
+- 💼 Fullstack Developer with experience in building scalable web applications
+- 🔭 Currently working with .NET, Angular, and PostgreSQL
+- 🌱 Studying Software Architecture and System Design
+- ☁️ Interested in Cloud Computing and Distributed Systems
+- 🇬🇧 English proficiency: C1
