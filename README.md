@@ -1,23 +1,13 @@
-<h1 align="center">Olá 👋, eu sou Pedro Henrique</h1>
+<h2>Hi 👋, I'm Pedro Dambrosio</h2>
 
-<p align="center">
-  Desenvolvedor Fullstack • .NET • Angular • PostgreSQL
+<p>
+  Fullstack Developer • .NET • Angular • PostgreSQL
 </p>
 
-### Sobre mim
+### About me
 
-- 💼 Desenvolvedor Fullstack
-- 🔭 Trabalhando com .NET, Angular e PostgreSQL
-- 🌱 Estudando Arquitetura de Software e System Design
-- ☁️ Interessado em Cloud Computing
-- 🇬🇧 Aprendendo inglês
-- 🚀 Sempre buscando evoluir tecnicamente
-
-### Stack Principal
-
-```txt
-Back-end    → C# | .NET | ASP.NET Core | EF Core
-Front-end   → Angular | TypeScript | RxJS | NGXS
-Banco       → PostgreSQL | SQL Server
-Cloud       → GCP | Cloud Run | Cloud SQL
-Ferramentas → Docker | Git | Rider
+- 💼 Fullstack Developer
+- 🔭 I'm Working with .NET, Angular and PostgreSQL
+- 🌱 Now I'm studying Software Archicture and System Design
+- ☁️ Interested in Cloud Computing
+- 🇬🇧 C1 English Level
